@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: #2f3237;
+    color: #8e8c8f;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+nav{
+    background-color:#fa6c65;
+    width: 100%;
+    height: 64px;
+    margin-bottom: 60px;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul{
+    height: 100%;
+    font-size: 1.2em;
+    width: fit-content;
+    gap: 31px;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+nav ul li{
+    display: inline;
+    color: #fff;
+}
+
+.title{
+    font-size: 49px;
+}
+
+.title1{
+    color: #fa6c65;
+}
+
+.title2{
+    color: #d0d0d0;
+}
+
+.tagline{
+    font-size: 1.2em;
+    margin-top: 20px;
+    text-align: center;
+    width: 50%;
+}
+
+.tagline p{
+    margin-bottom: 10px;
+}
+
+.czas{
+    color: #d0d0d0;
+    font-size: 1.2em;
+    padding: 5px;
+    width: 50%;
+    height: 50px;
+    border-top: 1px solid #fa6c65;
+    border-bottom: 1px solid #fa6c65;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+}
+
+h1{
+    color: #fa6c65;
+    margin: 10px;
+}
+
+#qs{
+    padding: 10px;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+
+#qs p{
+    font-size: 17px;
+    background-color: #26282e;
+    min-height: 35px;
+    display: flex;
+    align-items: center;
+    padding: 15px;
+}
+
+.qsimg{
+    max-height: 400px;
+}
+
+.odp{
+    background-color: #26282e;
+    min-height: 30px;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 2px solid #26282e;
+    transition: background-color 0.2s, color 0.2s;
+}
+
+.odp:has(input:checked){
+    background-color: #4b91d1;
+    color: #fff;
+}
+
+.odp:hover{
+    border: 2px solid #4b91d1;
+}
+
+.odp img{
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin-right: 10px;
+    border-radius: 1px;
+    background: #fff;
+    border: 1px solid #adadad;
+}
+
+.odp:has(input:checked) img{
+    background-color: #0075ff;
+    width: 12px;
+    height: 12px;
+    border: none;
+}
+
+input[type='radio']{
+    display: none;
+}
+
+.sep{
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+
+.koniec{
+
+    font-weight: bold;
+    background-color: #fc6259;
+    width: 250px;
+    height: 55px;
+    border-radius: 4px;;
+    transition: all 0.2s;
+    color: #fff;
+    text-decoration: none;
+    display: inline-block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.koniec:hover{
+    background-color: #CF4C45;
+}

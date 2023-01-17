@@ -1,0 +1,81 @@
+{
+"strony":
+    ["Język hatemmldysponuje nagłowkami do budowa nia hierarchii treści hehe na głowki te występują jedynie wzakresie ",
+    "Znacznik div oznacza pole",
+    "Znaczniki semantyczne w HTML5 to na przykład",
+    "Brak którego elementu języka HTML wygeneruje ostrzeżenie lub błąd walidatora HTML?",
+    "Fragment kodu napisany w języku HTML zamieszczony w ramce przedstawia listę",
+    "Aby bezpiecznie przesłać pliki strony internetowej na serwer WWW można użyć protokołu",
+    "W XHTML znacznik br poprawnie zapisuje sie",
+    "Który znacznik HTML jest elementem blokowym",
+    "Która z zasad tworzenia części <head> języka HTML jest poprawna?",
+    "W języku HTML, aby scalić w poziomie dwie sąsiednie komórki w wierszu tabeli należy zastosować atrybut",
+    "Czy hatemel jest językiem programowania i dlaczego nim jest?",
+    "Znacznik <ins> w języku HTML służy do oznaczenia",
+    "Który odnośnik jest prawidłowo zdefiniowany?"
+    ],
+"pehap":
+    ["By polanczyc sie z bazom danych w pehapie nalezy uzyc funkci",
+    "PHP jest językiem działającym po stronie",
+    "Co robi dana funkcja",
+    "Witryna internetowa wysyła dane poufne za pomocą formularza do kodu PHP. Która metoda wysłania jest najbardziej bezpieczna?",
+    "Do zarządzania ciasteczkami w PHP należy użyć funkcji",
+    "Funkcja isset sprawdza czy",
+    "Czy ty wiesz czym jest node lista?",
+    "Funkcja foreach robi ci matkę co każdą iterację. Ile razy się wykona?",
+    "Czym jest hermetyzacja?",
+    "Jakie elementy wypisze funkcja wypisz(6) stworzona w języku JavaScript?",
+    "W języku JavaScript stworzono funkcję o nazwie liczba_max porównującą trzy liczby naturalne pobrane z parametrów funkcji i zwracającą maksymalną z nich. Prawidłowe wywołanie takiej funkcji wraz z pobraniem jej wyniku będzie miało postać",
+    "Aby zadeklarować pole klasy, do którego mają dostęp jedynie metody tej klasy i pole to nie jest dostępne dla klas pochodnych, należy użyć kwalifikatora dostępu",
+    "W języku JavaScript zdefiniowana zmienna i, która ma przechowywać wynik dzielenia wynoszący 1, to"
+    ],
+"bazy":
+    ["Przedstawione zapyta nie jest przykładem:",
+    "Co można powiedzieć o normalizacji przedstawionej tabeli?",
+    "Co to znaczy, że tabela Tosty jest znormalizowana?",
+    "Uprawnienia obiektowe, nadawane użytkownikom serwera bazy danych, mogą pozwalać lub zabraniać",
+    "W bazie danych samochodów pole kolor z tabeli samochody przyjmuje wartości kolorów jedynie ze słownika lakier. Aby połączyć tabele samochody i lakier relacją należy, zastosować kwerendę",
+    "Po uszkodzeniu serwera bazy danych, aby możliwie najsprawniej przywrócić działanie kompletnej bazy należy użyć",
+    "Jakie należy posiadać uprawnienia, aby wykonać i odtworzyć kopię zapasową bazy danych Microsoft SQL Server 2005 Express?",
+    "Funkcja COUNT języka SQL realizuje",
+    "Którą relację w projekcie bazy danych należy ustalić między tabelami widocznymi na rysunku zakładając, że każdy klient sklepu internetowego dokona przynajmniej dwóch zamówień?",
+    "Co to jest DBMS?",
+    "Proszę państwa *kaszel*, czy wy rozumiecie jak działają zapytania krzyżowe? *kaszel*",
+    "Wskaż poprawną kolejność etapów projektowania relacyjnej bazy danych",
+    "W bazie danych MYSQL dana jest tabela programów komputerowych o polach: nazwa, producent, rokWydania. Aby kwerenda SELECT zwróciła wszystkie nazwy producentów tak, by nazwy te nie powtarzały się, należy zapisać:"
+    ],
+"style":
+    ["Na potrzeby strony internetowej zdefiniowano styl. Styl będzie przypisany tylko do niektórych znaczników np. niektórych nagłówków, kilku akapitów. W takim wypadku, aby przypisać styl do kilku konkretnych znaczników, najlepiej jest zastosować",
+    "By dodać elementowi obramowanie jak na obrazku należy zastosować",
+    "CSS pozwala na",
+    "Dzięki atrybutowi box-sizing w CSS można",
+    "Które określenie związanie z arkuszami styli jest niepoprawne",
+    "Kolorem o barwie niebieskiej jest kolor",
+    "Wartości: static, relative, fixed, absolute oraz sticky można przypisać do właściwości",
+    "W zamieszczonym przykładzie pseudoklasa hover sprawi, że styl pogrubiony będzie przypisany",
+    "W edytorze grafiki wektorowej stworzono przedstawiony kształt, który powstał z dwóch figur: trójkąta i koła. W celu stworzenia tego kształtu, po narysowaniu figur i odpowiednim ich ustawieniu, należy skorzystać z funkcji",
+    "W kodzie CSS zastosowano formatowanie elementu listy, przy czym żadne inne formatowanie CSS nie zostało zdefiniowane. Zastosowane formatowanie sprawi, że",
+    "Jeżeli w konsoli pojawia się błąd, że czarny element CSS nie może opływać oznacza to, że",
+    "Aby zwiększyć szybkość działania strony zawierającej grafikę o wymiarach 2000 px na 760 px, należy zmniejszyć rozmiary grafiki",
+    "Której właściwości CSS należy użyć, aby zdefiniować marginesy wewnętrzne dla elementu?"
+    ],
+"odpowiedzi":
+    ["usuń windowsa", "wyrzuć komputer przez okno", "nie wiem te itemy?", "gówno", "JavaScript (a.k.a. Java)", "od 1 do 6", "uppercase", "lowercase", "SELECT nazwa FROM artykuly WHERE typ=\"dupsko_chici\" AND cena FROM 1000 TO 1500;", "&lt;input&gt;", "klucz główny", "metoda POST", "null", "object reference not set to an instance of an object", "true","false", "imiki.pl", "WAV", "PNG", "GIMP", "Adobe", "grafika wektorowa", "color: #ff0000", "color: #00ff00", "CMYK", "HSV", "JPG", "PHP", "JavaScript", "i = 3", "x = 0 ∨ x = -1", " i++", "function nolicze", "A", "B", "C", "D", "funkcja daty i czasu", "kopytko,", "GNU GPL", "Paint", "nie wiem choć się domyślam", "3000 DPI", "display: griddy", "display: flex", "link rel", "node lista", "27", "NaN", "zapytanie zawiera błąd", "private lub protected", "C++", "Python", "maska", "warstwy", "import z pliku tekstowego", "jeden do wielu", "wiele do wielu", "port 666", "wormsy to taka gra ( ͡° ͜ʖ ͡°)", "ExpressJS", "framework", "wektory", "wybór bazy, zapytanie do bazy, nawiązanie połączenia z serwerem baz danych, wyświetlenie na stronie WWW, zamknięcie połączenia"
+    ],
+"slowa":
+    {
+        "pocz": ["Czy", "Jak", "Gdzie", "Kiedy", "Który", "Co", "Jaki"],
+        "rzecz": ["język", "strona", "grafika", "baza", "tabela", "użytkownik", "admin", "programista", "kod", "funkcja", "obiekt", "MS ACCESS 1999", "pseudoklasa", "backend", "middleware", "krotka", "rekord"],
+        "czas": ["jest", "ma", "robi", "nazywa się", "pokazuje", "wyświetla", "zawiera m. in.", "rysuje"],
+        "kon": ["", "JS", "rastrowy", "format", "SELECT", "funkcja", "programowanie", "PHP", "na rysunku", "Photoshop", "baza danych", "wektorowy", "właściwości CSS", "ExpressJS", "framework", "webassembly"]
+    },
+
+"zapytania":
+    {
+        "nazwa": ["SELECT", "UPDATE", "DELETE", "INSERT INTO"],
+        "kolumny": ["imię", "nazwisko", "id, nazwisko, email", "regiony, towary, dostawcy", "usługi", "tytuły"],
+        "tabela": ["uczniowie", "gregi", "animatroniki", "sześć", "SZTI", "tabela", "bussybb"],
+        "gdzie": ["imie =", "dlugosc_siura =", "abcit = ", "essa =", "gówno = ", "ilosc_suczek = ", "rok_urodzenia = "],
+        "dodatek": ["", "ORDER BY uczniowie", "DISTINCT", "UNIQUE", "PRIMARY KEY", "", "GROUP BY key", "TOP 10", "BEFORE", "FIRST", "", "ORDER BY abcity"]
+    }
+}
